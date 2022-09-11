@@ -1,6 +1,5 @@
 # simple-python-project
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
 🔥Welcome to my repository.
 My repository has simple python projects which you can use for your college projects or for simple code usage.
 All these codes are open to use by anyone , all changes and collaborations are welcomed.
